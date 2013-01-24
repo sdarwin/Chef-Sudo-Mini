@@ -1,0 +1,29 @@
+{
+  "recommendations": {
+  },
+  "license": "Apache 2.0",
+  "dependencies": {
+  },
+  "maintainer": "Sam Darwin",
+  "version": "1.0.0",
+  "providing": {
+  },
+  "description": "adds a sudo config file",
+  "platforms": {
+  },
+  "name": "sudo-mini",
+  "recipes": {
+  },
+  "groupings": {
+  },
+  "replacing": {
+  },
+  "long_description": "",
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "maintainer_email": "samuel.d.darwin@gmail.com",
+  "suggestions": {
+  }
+}
